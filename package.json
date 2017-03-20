@@ -1,6 +1,6 @@
 {
   "name": "@justinc/fpo-curry-multiple",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "The named arguments based function `curryMultiple` from FPO",
   "main": "lib/index.js",
   "scripts": {
